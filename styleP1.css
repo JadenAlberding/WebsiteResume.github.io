@@ -1,0 +1,78 @@
+.name{
+    text-align: center;
+    font-size: 160;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(220, 221, 226);
+}
+
+.projects,
+.jobexperience,
+.aboutme,
+.hobbies{
+    
+    border-color: black;
+
+    border-style: solid;
+    height: 300px;
+    width: 450px ;
+}
+
+.border{
+    background-size: cover;
+    margin: 0;
+    padding: 0px;
+    display:grid;
+    place-items: center;
+    /*border-color: black;
+    border-style: dotted;*/
+    height: 1000px;
+    
+}
+
+.aboutme{
+    background-color: black;
+    opacity: 5%;
+    margin-right: auto;
+    margin-left: 20%;
+
+
+}
+
+.projects{
+   
+    margin-right: auto;
+    margin-left: 15%;
+}
+
+.jobexperience{
+   
+    margin-left: auto;
+    margin-right: 15%;
+}
+
+.hobbies{
+    margin-left:auto ;
+    margin-right: 20%;
+}
+
+
+
+.b1{
+    background-color: rgb(160, 249, 255);
+}
+
+.b2{
+    background-color: rgba(31, 145, 221, 0.644);
+}
+
+.b3{
+    background-color: rgb(20, 54, 105);
+}
+
+.b4{
+    background-color: rgb(8, 13, 59);
+}
