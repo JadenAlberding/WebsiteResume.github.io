@@ -11,6 +11,12 @@ body{
     background-color: rgb(220, 221, 226);
     margin: 0px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.logo{
+    height: 20px;
+    text-align: center;
 }
 
 .projects,
